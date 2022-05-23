@@ -16,3 +16,7 @@ A página web deve estar semelhante ao figma que foi dado como base. No entanto,
 - Site é responsivo
 - Possui menu mobile
 - Possui botão de voltar ao topo
+
+## Resultado
+
+Você pode conferir o resultado nessa URL: https://guga06436.github.io/landing-page/
